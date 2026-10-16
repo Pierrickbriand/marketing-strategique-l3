@@ -596,6 +596,9 @@ body.teach #side li.facult .tt::after{content:" · facultatif";color:var(--accen
 @media (max-width:900px){.ops{grid-template-columns:1fr}}
 
 #horsParcours,.slide-hors{display:none!important}
+/* v24 : navigation des activités toujours au même endroit, sous le titre */
+.exh{flex-direction:column;align-items:stretch;gap:12px}
+.exh .exr{flex-direction:row;align-items:center;justify-content:space-between;width:100%;flex-wrap:wrap;gap:10px 24px}
 
 /* Écran de démarrage : groupe et marque */
 .boot{position:fixed;inset:0;overflow:auto;background:var(--bg,#fff);color:var(--ink,#1d1d1f);z-index:50;display:flex;justify-content:center;padding:40px 16px}
