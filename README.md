@@ -7,3 +7,8 @@ Le cours est en ligne : https://pierrickbriand.github.io/marketing-strategique-l
 Les réponses des étudiants restent dans leur navigateur. Chaque groupe enregistre son travail en fichier .json à la fin de chaque séance.
 
 Ce dépôt contient seulement l'édition étudiante, sans corrigés. Elle est fabriquée depuis le dépôt du kit « cours interactif » (moteur v105). Les fiches de cours sont dans fiches-cours-marketing-strategique-l3.pdf.
+
+
+## Droits
+
+© 2026-2027 Pierrick Briand. Tous droits réservés. Reproduction, diffusion et réutilisation interdites sans accord écrit. Voir le fichier [LICENSE](LICENSE).
